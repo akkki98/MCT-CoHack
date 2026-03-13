@@ -129,9 +129,7 @@ Participants successfully complete the lab if they can:
 - Generate **structured responses for training questions**
 - Test the agent successfully with training-related prompts
 
-### Final Validation Test
 
-Ask the agent:
 
 
 
