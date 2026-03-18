@@ -94,39 +94,16 @@ The solution should allow employees to submit expenses and managers to approve/r
 
 ---
 
-# 🏆 Judging Criteria
+📌 Submission Requirement
 
-## 1. Functionality (30%)
+Participants must complete and submit their solution within the given time
 
-* Complete working solution (App + Flow + Dataverse)
-* Approval workflow functions correctly
+Each team must provide:
 
-## 2. User Experience (20%)
+Working Model-Driven App
 
-* Clean and intuitive UI
-* Easy navigation and usability
+Configured Dataverse table
 
-## 3. Automation & Logic (20%)
+Functional Power Automate flow
 
-* Effective use of Power Automate
-* Proper handling of approval scenarios
-
-## 4. Data Modeling (15%)
-
-* Well-structured Dataverse schema
-* Proper use of fields, views, and forms
-
-## 5. Innovation & Enhancements (10%)
-
-* Additional features like:
-
-  * Attachments
-  * Multi-level approvals
-  * Dashboards
-
-## 6. Presentation (5%)
-
-* Clear demo and explanation
-* Ability to answer questions
-
----
+Explanation of how the solution meets the judging criteria
